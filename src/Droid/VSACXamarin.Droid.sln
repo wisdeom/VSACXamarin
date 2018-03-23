@@ -1,0 +1,20 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VSACXamarin.Droid", "VSACXamarin.Droid.csproj", "{EC4D4F2D-1770-4573-B107-922810BF271F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+		QA|Any CPU = QA|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC4D4F2D-1770-4573-B107-922810BF271F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC4D4F2D-1770-4573-B107-922810BF271F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC4D4F2D-1770-4573-B107-922810BF271F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC4D4F2D-1770-4573-B107-922810BF271F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC4D4F2D-1770-4573-B107-922810BF271F}.QA|Any CPU.ActiveCfg = QA|Any CPU
+		{EC4D4F2D-1770-4573-B107-922810BF271F}.QA|Any CPU.Build.0 = QA|Any CPU
+	EndGlobalSection
+EndGlobal
